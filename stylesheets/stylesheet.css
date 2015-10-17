@@ -1,7 +1,35 @@
 * {
   box-sizing: border-box; }
 
-body {
+body {background-image:transparent;
+background-color:transparent;
+  -ms-background-color:transparent;
+  -webkit-background-color:transparent;
+  -moz-background-color:transparent;
+  -blink-background-color:transparent;
+  -o-background-color:transparent;
+  text-decoration:none;
+  text-rendering: optimizelegibility;
+  text-decoration: none;
+-webkit-font-smoothing:antialiased;
+-webkit-over-scrolling:touch;
+
+  font-variant-ligatures: no-common-ligatures;
+  -moz-font-feature-settings: "liga" 0, "clig" 0;
+  -ms-font-feature-settings: "liga" 0, "clig" 0;
+  -webkit-font-feature-settings: "liga" 0, "clig" 0;
+  font-feature-settings: "liga" 0, "clig" 0;
+    font-variant-ligatures: contextual;
+    -moz-font-feature-settings: "calt";
+    -ms-font-feature-settings: "calt";
+    -webkit-font-feature-settings: "calt";
+    font-feature-settings: "calt";
+position:static;
+display:table;
+color: #ffe;
+text-shadow: 4px 4px 9px #000;
+text-shadow: 0 0.032em 0 #b0b0b0, 0px 0.15em 0.11em rgba(0,0,0,0.15), 0px 0.25em 0.021em rgba(0,0,0,0.1), 0px 0.32em 0.32em rgba(0,0,0,0.1);
+
   padding: 0;
   margin: 0;
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
