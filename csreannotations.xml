@@ -17,163 +17,163 @@
     </Context>
   </CustomSearchEngine>
   <Annotations>
-<Annotation about="delicious.com/fineherbalincense* score="1.0">
+<Annotation about="delicious.com/fineherbalincense*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_social_ident"/>
 </Annotation>
-<Annotation about="dribble.com/fineherbalincense* score="1.0">
+<Annotation about="dribble.com/fineherbalincense*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_social_ident"/>
 </Annotation>
-<Annotation about="facebook.com/pages/Fine-Herbal-Incense/659884270714064* score="1.0">
+<Annotation about="facebook.com/pages/Fine-Herbal-Incense/659884270714064*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_social_ident"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/about-us/* score="1.0">
+<Annotation about="fineherbalincense.net/about-us/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/blog/* score="1.0">
+<Annotation about="fineherbalincense.net/blog/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/cart/* score="1.0">
+<Annotation about="fineherbalincense.net/cart/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/contact-us/* score="1.0">
+<Annotation about="fineherbalincense.net/contact-us/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/faq/* score="1.0">
+<Annotation about="fineherbalincense.net/faq/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/feed/* score="1.0">
+<Annotation about="fineherbalincense.net/feed/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/my-account/* score="1.0">
+<Annotation about="fineherbalincense.net/my-account/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product-category/featured/* score="1.0">
+<Annotation about="fineherbalincense.net/product-category/featured/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product-category/limited-time-only/* score="1.0">
+<Annotation about="fineherbalincense.net/product-category/limited-time-only/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product-category/most-popular/* score="1.0">
+<Annotation about="fineherbalincense.net/product-category/most-popular/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product-category/on-sale/* score="1.0">
+<Annotation about="fineherbalincense.net/product-category/on-sale/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product-category/package-deals/* score="1.0">
+<Annotation about="fineherbalincense.net/product-category/package-deals/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product-category/staff-picks/* score="1.0">
+<Annotation about="fineherbalincense.net/product-category/staff-picks/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/bizarro-herbal-incense-2/* score="1.0">
+<Annotation about="fineherbalincense.net/product/bizarro-herbal-incense-2/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/black-diamond-incense-10g/* score="1.0">
+<Annotation about="fineherbalincense.net/product/black-diamond-incense-10g/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/black-lion-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/black-lion-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/cleopatra-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/cleopatra-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/dead-man-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/dead-man-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/diablo-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/diablo-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/flamingo-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/flamingo-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/geeked-up-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/geeked-up-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/get-real-herbal-incense-3g/* score="1.0">
+<Annotation about="fineherbalincense.net/product/get-real-herbal-incense-3g/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/get-real-herbal-incense-special-3-pack-3g/* score="1.0">
+<Annotation about="fineherbalincense.net/product/get-real-herbal-incense-special-3-pack-3g/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/godfather-incense-10g/* score="1.0">
+<Annotation about="fineherbalincense.net/product/godfather-incense-10g/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/green-giant-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/green-giant-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/kush-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/kush-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/mad-hatter-herbal-incense-cloud9/* score="1.0">
+<Annotation about="fineherbalincense.net/product/mad-hatter-herbal-incense-cloud9/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/mad-monkey-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/mad-monkey-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/mames-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/mames-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/nefertiti-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/nefertiti-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/platinum-xxx-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/platinum-xxx-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/ramses-iii-5g/* score="1.0">
+<Annotation about="fineherbalincense.net/product/ramses-iii-5g/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/sexy-monkey-herbal-incense-10g/* score="1.0">
+<Annotation about="fineherbalincense.net/product/sexy-monkey-herbal-incense-10g/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/supernova-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/supernova-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/tiger-incense-2g/* score="1.0">
+<Annotation about="fineherbalincense.net/product/tiger-incense-2g/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/product/wanted-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/product/wanted-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/shop/* score="1.0">
+<Annotation about="fineherbalincense.net/shop/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-7h-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-7h-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-atomic-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-atomic-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-caution-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-caution-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-cloud-9-mad-hatter-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-cloud-9-mad-hatter-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-diablo-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-diablo-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-iblown-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-iblown-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-joker-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-joker-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-knockout-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-knockout-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-kush-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-kush-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-scooby-snax-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-scooby-snax-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-supernova-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-supernova-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
-<Annotation about="fineherbalincense.net/wholesale-wtf-herbal-incense/* score="1.0">
+<Annotation about="fineherbalincense.net/wholesale-wtf-herbal-incense/*" score="+1.0">
 <Label name="herbal_incense_information"/><Label name="herbal_incense_product_fhi"/>
 </Annotation>
 <Annotation about="flickr.com/people/fineherbalincense* score="1.0">
