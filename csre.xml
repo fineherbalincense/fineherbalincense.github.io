@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GoogleCustomizations>
+  <CustomSearchEngine volunteers="false">
+    <Title>Herbal Incense</Title>
+    <Description>Herbal Incense, compare buy online stores, information, media, reviews, blogs </Description>
+    <Context>
+      <BackgroundLabels>
+        <Label name="herbal_incense_information" mode="BOOST"/>
+        <Label name="herbal_incense_product_fhi" mode="BOOST"/>
+        <Label name="herbal_incense_product_hi1" mode="BOOST"/>
+        <Label name="herbal_incense_product_fhikill" mode="ELIMINATE"/>
+        <Label name="herbal_incense_social_ident" mode="FILTER"/>
+        <Label name="herbal_incense_media" mode="FILTER"/>
+        <Label name="herbal_incense_site" mode="FILTER"/>
+        <Label name="herbal_incense_blog" mode="FILTER"/>
+      </BackgroundLabels>
+    </Context>
+  </CustomSearchEngine>
+</GoogleCustomizations>
