@@ -24,7 +24,7 @@ Allow: /wppage.html!#/* #
 Allow: /wppage.html!#/*txt #
 Allow: /wppage.html?/*txt #
 Allow: /wppage.html*bots.txt
-
+#
 Disallow: /wp-content/plugins/woocommerce/ #
 Disallow: /wp-includes/* #
 Disallow: /wp-content/* #
@@ -33,16 +33,16 @@ Disallow: /index.php #
 Disallow: /wp-config.php #
 Disallow: /wp-blog* #
 Disallow: /wp-header* #
-
-
+#
 Disallow: /sitemap.xml #
 Disallow: /sitemap.xml.gz #
 Disallow: /sitemap-images.xml #
-
-
+#
 Sitemap: http://fineherbalincense.com/supernova-herbal-incense/%3Fsitemap.xml #
 Sitemap: http://fineherbalincense.com/wppage.html%3Fsitemap.txt #
 Sitemap: http://fineherbalincense.com/wppage.html%3Fsitemap.xml #
 Sitemap: https://fhincense.s3-us-west-1.amazonaws.com/sitemaps/fhi.com/sitemap.xml #
 Sitemap: https://fineherbalincense.github.io/sitemaps/fhicom/sitemap.xml #
 Sitemap: https://secure-redirection.s3-us-west-1.amazonaws.com/sitemaps/fhi.com/sitemap.xml #
+Sitemap: http://fineherbalincense.com/wppage.html%3Furls.txt #
+Sitemap: http://fineherbalincense.com/wppage.html%3Fpagemap.txt #
